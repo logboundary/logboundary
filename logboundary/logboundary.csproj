@@ -395,6 +395,8 @@
     <Content Include="Content\frontend\assets\plugins\scrollMonitor\demos\stress.html" />
     <Content Include="Content\frontend\assets\plugins\scrollMonitor\MIT-LICENSE.txt" />
     <Content Include="Content\frontend\assets\plugins\scrollMonitor\scrollMonitor.js" />
+    <Content Include="Content\Images\home-bg.jpg" />
+    <Content Include="Content\Images\logo.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
