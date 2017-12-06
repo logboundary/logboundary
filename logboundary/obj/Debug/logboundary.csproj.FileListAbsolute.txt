@@ -48,6 +48,5 @@ C:\Projects\logboundary\logboundary\bin\System.Web.WebPages.Deployment.xml
 C:\Projects\logboundary\logboundary\bin\System.Web.WebPages.Razor.xml
 C:\Projects\logboundary\logboundary\bin\Antlr3.Runtime.pdb
 C:\Projects\logboundary\logboundary\bin\Newtonsoft.Json.xml
-C:\Projects\logboundary\logboundary\obj\Debug\logboundary.csprojResolveAssemblyReference.cache
 C:\Projects\logboundary\logboundary\obj\Debug\logboundary.dll
 C:\Projects\logboundary\logboundary\obj\Debug\logboundary.pdb
