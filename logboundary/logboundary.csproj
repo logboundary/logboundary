@@ -581,6 +581,7 @@
     <Content Include="Content\frontend\assets\plugins\scrollMonitor\demos\listdata.json" />
     <Content Include="Content\frontend\assets\plugins\scrollMonitor\package.json" />
     <Content Include="Content\frontend\assets\plugins\scrollMonitor\README.md" />
+    <None Include="Properties\PublishProfiles\logboundary.com.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
