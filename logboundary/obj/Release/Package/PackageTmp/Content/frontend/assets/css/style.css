@@ -2966,3 +2966,5 @@ a.list-group-item.active:focus {
 .theme-panel.active {
     right: 0;
 }
+
+#header{border-bottom: none !important;}
